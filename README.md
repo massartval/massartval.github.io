@@ -1,42 +1,38 @@
-# Dev Landing Page
+# My Dev Landing Page
 
-Minimal landing page for developers.
+**Hello World**, 
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
+Welcome to my dev landing page. I borrowed everything from **[Dinesh Pandiyan](https://github.com/flexdinesh/dev-landing-page)**. Some day, I will build my own landing page from scratch, but for now, thanks to him!
+
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
+*"I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same."* (Dinesh Pandiyan) 
 
-So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
+Indeed we do!
 
-## Themes
+## What I can do 
 
-Dev Landing Page comes in 9 **material themes**.
+Not much for now... But I'm 100% sure that things are going to get interesting very fast thanks to my colleagues and coaches at **[BeCode](https://becode.org/)**!
 
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
+## Languages that I know 
 
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
+|Language|Proficiency                                             |
+|--------|--------------------------------------------------------|
+| *HTML* | Not to brag, but I got this!                           |
+| *CSS*  | I understand how it works but I'm not quite there yet. |
+| *JS*   | Still working on the basics...                         |
+| *PHP*  | I know how to spell it, but that's about it.           |
 
-## GitHub Pages
+I will try not to forget to update this table at somepoint in the future. 
 
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
+## Projects 
 
-If you already have a GitHub profile (obviously)
+I am currently working on a website for a music school. Thanks to BeCode I hope that I can make it public as soon as possible. 
 
-* Create a new repo with the name `{username}.github.io`
-* Clone/Fork this repo and copy the files to your newly created repo
-* Customize your name, links and everything else for your landing page
-* `git push`
+## Recommendations 
 
-Voila! Your site should be live at `https://{username}.github.io`
+**[OpenClassrooms](https://openclassrooms.com/fr)** My go-to website to learn anything code-related. 
 
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
-
-### Custom Domain
-
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
-
-## License
-
+**[Twilioquest](https://www.twilio.com/quest)** is a RPG game that gives you the opportunity to practice with a variety of programmation language. I used it to consolidate my learning in JS. 
 MIT © Dinesh Pandiyan
