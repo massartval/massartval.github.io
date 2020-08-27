@@ -35,4 +35,3 @@ I am currently working on a website for a music school. Thanks to BeCode I hope 
 **[OpenClassrooms](https://openclassrooms.com/fr)** My go-to website to learn anything code-related. 
 
 **[Twilioquest](https://www.twilio.com/quest)** is a RPG game that gives you the opportunity to practice with a variety of programmation language. I used it to consolidate my learning in JS. 
-MIT © Dinesh Pandiyan
